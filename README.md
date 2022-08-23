@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Galeria de Filmes
+
+O objetivo do site é criar uma lista de filmes que o usuário deseja assistir, Em breve será add mais descrição so site.
+
+URL: [AQUI](https://galeria-filmes-hugoleogs.netlify.app/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
